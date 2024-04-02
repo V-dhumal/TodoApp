@@ -1,0 +1,38 @@
+.input-box{
+    border-radius: 10px;
+    width:420px;
+}
+.add-task{
+    width:400px;
+    padding:10px 20px;
+    font-size:18px;
+    border-radius:20px;
+    
+}
+.card-category{
+    margin-right:-180px;
+    font-size:18px;
+}
+.card-title{
+    margin-left:-40px;
+}
+.del-button{
+    height:20px;
+    width:20px;
+    margin-top:10px;
+}
+.add-taskcard{
+    border-radius:40px;
+    font-size: 20px;
+}
+.category{
+    border-radius:20px;
+    font-size:18px;
+    padding:5px 20px;
+}
+.add-btn{
+    height:30px;
+    width:30px;
+    margin-top:12px;
+    margin-left:5px;
+}
