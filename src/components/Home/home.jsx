@@ -13,7 +13,7 @@ function Home() {
 
   const addtask= ()=>{
     if(newTask===''){
-      SetError(`please enter a task`)
+      SetError(`Please Enter a Task`)
       return
     }
     else{
