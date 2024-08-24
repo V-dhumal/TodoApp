@@ -93,10 +93,10 @@ function Home() {
               <select className=" category text-center p-1 bg-gray-300 rounded-sm m-1 " value={category} onChange={(e)=>{
               SetCategory(e.target.value)} }>
               <option className="">category</option>
-              <option>learning🎓</option>
+              <option>learning📝</option>
               <option>playing⚽</option>
               <option>office👨🏻‍💼</option>
-              <option>Education🎯</option>
+              <option>Education🎓</option>
               </select>
               </div>
               <div>
